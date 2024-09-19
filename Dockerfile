@@ -35,8 +35,10 @@ RUN rm -rf *
 
 
 # nginx 디렉토리에 리엑트 빌드 파일 복사
-COPY --from=build /app/build .
+COPY --from=build /app/build /usr/share/nginx/html/
 
+#copy the Nginx configuaration file
+COPY ./nginx.conf /etc/nginx/conf.d/default.conf
 
 # nginx 포트 설정
 EXPOSE 80
