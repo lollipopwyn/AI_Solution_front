@@ -18,7 +18,7 @@ const UPDATE_USER_AGREE_API_URL = 'http://localhost:8080/update_agree';
 
 //  패키지 카테고리 받아오기
 const GET_PACKAGES_CATEGORY_API_URL =
-  'https://solutionbackend.bstuz.com//get_Category/:text';
+  'https://solutionbackend.bstuz.com/get_Category/:text';
 
 export {
   REGISTER_USER_API_URL,

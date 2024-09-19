@@ -14,7 +14,7 @@ const Recommend = () => {
   const fetchCategories = async () => {
     try {
       const response = await fetch(
-        'https://solutionbackend.bstuz.com//get_Category/:text'
+        'https://solutionbackend.bstuz.com/get_Category/:text'
       ); // API 호출
       const data = await response.json();
 
