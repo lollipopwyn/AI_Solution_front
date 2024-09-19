@@ -14,7 +14,7 @@ const Recommend = () => {
   const fetchCategories = async () => {
     try {
       const response = await fetch(
-        `${process.env.REACT_APP_MY_DOMAIN}/get_Category/:text`
+        'https://solutionbackend.bstuz.com//get_Category/:text'
       ); // API 호출
       const data = await response.json();
 
@@ -22,7 +22,7 @@ const Recommend = () => {
 
       setCategories(data); // 받아온 데이터를 상태로 설정
     } catch (error) {
-      console.log('Error fetching categories', error); //
+      console.log('Error fetching categories', error);
     }
   };
 
