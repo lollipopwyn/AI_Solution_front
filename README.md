@@ -1,27 +1,28 @@
 <p>
   
-  # $\it{\textsf{\color{#5ad7b7} 🐬맞춤형 AI 솔루션 주문 및 관리 웹 사이트}}$
+  # $\it{\textsf{\color{#A367B1} 💜맞춤형 AI 솔루션 주문 및 관리 웹 사이트}}$
+  ![web_cover](https://github.com/user-attachments/assets/504e9016-dbf1-48be-9de8-92a47f29aba9)
 </p>
 
 <br>
 
-## 프로젝트 소개
+## 🟣프로젝트 소개
 AICO의 기술을 활용하여 맞춤형 AI 솔루션 제품을 주문할 수 있는 웹사이트를 개발했습니다. 이 사이트는 회원이 자신의 요구에 맞는 AI 솔루션을 쉽게 주문하고, 필요에 따라 수정 및 삭제할 수 있는 기능을 제공합니다. 또한, 관리자는 의뢰 받은 주문서를 효율적으로 관리할 수 있습니다.
 
-## 팀원 구성 및 역할 분담
-- 프론트엔드 개발
-- 백엔드 개발
+## 🟣팀원 구성
+| **탄지로** | **세일러문** | 
+| :------: |  :------: |
+| <img width="64" height="64" src="https://img.icons8.com/external-victoruler-linear-colour-victoruler/64/external-boy-people-victoruler-linear-colour-victoruler-4.png"> <br/>  | <img width="64" height="64" src="https://img.icons8.com/external-victoruler-flat-victoruler/64/external-girl-people-victoruler-flat-victoruler-4.png"> <br/> | |
 
 
-## 개발 환경
-- Front-end : HTML, React, Redux, Axios
-- Back-end : React, pgAdmin
-- 버전 및 이슈 관리: Github, Visual Studio, Sourcetree
-- 협업 툴: Velog, Slack
-- 디자인: Figma
+## 🟣개발 환경
+
+| **Front-end** | **Back-end** | **버전 및 이슈 관리** |  **협업 툴** |**디자인** |
+| :------: |  :------: | :------: | :------: | :------: |
+| HTML <br> React <br> Redux <br>Axios| React<br>pgAdmin | Github <br> Visual Studio <br> Sourcetree| Velog <br> Slack |Figma |
 
 
-## 프로젝트 구조
+## 🟣프로젝트 구조
 
 ```
 ├── src/                     
@@ -52,7 +53,7 @@ AICO의 기술을 활용하여 맞춤형 AI 솔루션 제품을 주문할 수 �
 └── Dockerfile               # 도커 설정
 ```
 
-## 개발 기간
+## 🟣개발 기간
 - 전체 개발 기간: 2024.08.20~2024.09.05
 - 데이터 베이스:2024.08.20~2024.08.22
 - 기능 구현: 2024.08.20~2024.09.05
@@ -61,50 +62,44 @@ AICO의 기술을 활용하여 맞춤형 AI 솔루션 제품을 주문할 수 �
 - 버그 리포트: 2024.09.04~2024.09.05
 - 클라우트 배포: 2024.09.06~2024.09.20
 
-## 페이지 별 기능
-- 페이지별 시안을 Gif 헝태로 전시.
+## 🟣페이지 별 기능
 
-### [메인 화면]
-<p align="left">
-  <img src ="readMe_gif/mainpage.gif" >
-</p>
+| **메인 화면** |
+| :------: |
+|<img src ="readMe_gif/mainpage.gif" > |
 
-### [회원 가입]
-<p align="left">
-  <img src ="readMe_gif/signup.gif" >
-</p>
+| **회원 가입** |
+| :------: |
+|<img src ="readMe_gif/signup.gif" > |
 
-### [로그인]
-<p align="left">
-  <img src ="readMe_gif/login.gif" >
-</p>
 
-### [기술 소개]
-<p align="left">
-  <img src ="readMe_gif/tech.gif" >
-</p>
+| **로그인** |
+| :------: |
+|<img src ="readMe_gif/login.gif" > |
 
-### [패키지]
-<p align="left">
-  <img src ="readMe_gif/package.gif" >
-</p>
 
-### [협의서 작성]
-<p align="left">
-  <img src ="readMe_gif/agree.gif" >
-</p>
+| **기술 소개** |
+| :------: |
+|<img src ="readMe_gif/tech.gif" > |
 
-### [마이 페이지]
-<p align="left">
-  <img src ="readMe_gif/my.gif" >
-</p>
+| **패키지** |
+| :------: |
+|<img src ="readMe_gif/package.gif" > |
 
-### [관리자 페이지]
-<p align="left">
-  <img src ="readMe_gif/master.gif" >
-</p>
+| **협의서 작성** |
+| :------: |
+|<img src ="readMe_gif/agree.gif">|
 
-## 개선 목표
+| **마이 페이지** |
+| :------: |
+|<img src ="readMe_gif/my.gif">|
+
+
+| **관리자 페이지** |
+| :------: |
+|<img src ="readMe_gif/master.gif" >|
+
+## 🟣개선 목표
 
 - 추천 패키지에 좋아요 기능 추가
   * 회원은 자신이 마음에 드는 패키지에 좋아요 누른다.
@@ -116,7 +111,7 @@ AICO의 기술을 활용하여 맞춤형 AI 솔루션 제품을 주문할 수 �
   * 협의서 작성, 에러 사항에 대해 회원이 보고할 수 있는 챗봇.
   * 회원에게 기본 해결책을 제공해준다.
 
-## 에러 노트
+## 🟣에러 노트
 
 - 깃허브 deploy
   * 몇 차례 업데이트 이후 runners 연결이 끊겨서 deploy 실패했다.
