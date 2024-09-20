@@ -1,7 +1,7 @@
 // 회원
-const REGISTER_USER_API_URL = `${process.env.REACT_APP_MY_DOMAIN}/register_user`;
-const POST_TASKS_API_URL = `${process.env.REACT_APP_MY_DOMAIN}/post_tasks`;
-const GET_TASKS_API_URL = `${process.env.REACT_APP_MY_DOMAIN}/get_tasks`;
+const REGISTER_USER_API_URL = 'https://solutionbackend.bstuz.com/register_user';
+const POST_TASKS_API_URL = 'https://solutionbackend.bstuz.com/post_tasks';
+const GET_TASKS_API_URL = 'https://solutionbackend.bstuz.com/get_tasks';
 
 //Mypage 협의서 리스트
 const GET_USER_TASKS_API_URL =
