@@ -64,23 +64,44 @@ AICO의 기술을 활용하여 맞춤형 AI 솔루션 제품을 주문할 수 �
 - 페이지별 시안을 Gif 헝태로 전시.
 
 ### [메인 화면]
-<p align="center">
-  <img src ="https://github.com/lollipopwyn/AI_Solution_back/issues/1#issue-2537908369" >
+<p align="left">
+  <img src ="readMe_gif/mainpage.gif" >
 </p>
 
 ### [회원 가입]
+<p align="left">
+  <img src ="readMe_gif/signup.gif" >
+</p>
 
 ### [로그인]
+<p align="left">
+  <img src ="readMe_gif/login.gif" >
+</p>
 
 ### [기술 소개]
+<p align="left">
+  <img src ="readMe_gif/tech.gif" >
+</p>
 
 ### [패키지]
+<p align="left">
+  <img src ="readMe_gif/package.gif" >
+</p>
 
 ### [협의서 작성]
+<p align="left">
+  <img src ="readMe_gif/agree.gif" >
+</p>
 
 ### [마이 페이지]
+<p align="left">
+  <img src ="readMe_gif/my.gif" >
+</p>
 
 ### [관리자 페이지]
+<p align="left">
+  <img src ="readMe_gif/master.gif" >
+</p>
 
 ## 개선 목표
 
