@@ -118,7 +118,7 @@ const ColaboAgreement = () => {
     try {
       await dispatch(fetchPostTasksData(formData)).unwrap();
       dispatch(tempComplete());
-      navigator('/agreeFinsh');
+      navigator('https://solutionfrontend.bstuz.com/agreeFinsh');
     } catch (error) {
       console.error('Error adding task:', error);
       toast.error('협의서 등록 실패');
