@@ -2,7 +2,7 @@
   
   # $\it{\textsf{\color{#5ad7b7} 🐬맞춤형 AI 솔루션 주문 및 관리 웹 사이트}}$
 </p>
-![button_bg2](https://github.com/user-attachments/assets/b8de4b19-c5c4-429c-8cab-ff27f3006ce7)
+
 <br>
 
 ## 프로젝트 소개
